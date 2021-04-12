@@ -9,4 +9,4 @@
 [1]: https://support.shotgunsoftware.com/hc/en-us/articles/219039788-Toolkit-Home-Page
 [2]: https://graphics.pixar.com/usd/docs/index.html
 [3]: https://pypi.org/project/usd-core/
-[logo]: https://github.com/nfa-vfxim/tk-framework-usd/raw/master/icon-256.png
+[logo]: https://raw.githubusercontent.com/nfa-vfxim/tk-framework-usd/main/icon-256.png
